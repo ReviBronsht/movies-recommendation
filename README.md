@@ -31,6 +31,7 @@ It connects to local mongodb client with pymongo.
 ### The Client (frontend)
 
 Initialization: npm i && npm start
+
 The homepage lets users pick movies or tv shows from the movies/tv shows avaliable on netflix at the time of db creation, and shows the user the result of the algorithm.
 
 The browse page allows user to browse movies/tv shows according to route.
