@@ -43,3 +43,9 @@ and saved in mongodb compass as "netflixdb"
 
 Webscraper in selenium runs over each title and adds a poster of the title for them to the db from google images, then creates "new_netflixdb"
 
+![image](https://github.com/ReviBronsht/movies-recommendation/assets/97298035/aaad4e04-6cf4-4892-bf47-f3c1fe7a3fc6)
+![image](https://github.com/ReviBronsht/movies-recommendation/assets/97298035/65355c4f-cc0e-481f-9d1d-84d384fc3703)
+![image](https://github.com/ReviBronsht/movies-recommendation/assets/97298035/0d0d7b21-e645-4341-83ad-9af2ae48096d)
+![image](https://github.com/ReviBronsht/movies-recommendation/assets/97298035/55bc2d47-3676-47be-9399-31e2e52a389b)
+
+
