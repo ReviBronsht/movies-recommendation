@@ -1,0 +1,28 @@
+.dataResult {
+    width: fit-content;
+    margin-left: 22%;
+    margin-top: 5px;
+    height: 200px;
+    background-color: white;
+overflow:hidden;
+overflow-y: auto;
+}
+
+
+.dataResult .dataItem {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    color:black;
+}
+
+
+.dataItem form {
+    margin-left: 10px;
+    border: 1px;
+
+}
+
+#clearBtn {
+    cursor: pointer;
+}

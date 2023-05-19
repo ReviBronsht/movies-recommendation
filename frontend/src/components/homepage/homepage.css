@@ -1,0 +1,26 @@
+
+.banner {
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+    height:180px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.home-content {
+    align-items: center;
+    text-align: center;
+}
+
+.recs-container {
+  margin-left: 170px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title-idx{
+  font-size: 300px;
+  position: relative;
+  color: white;
+}

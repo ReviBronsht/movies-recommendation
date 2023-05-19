@@ -1,0 +1,38 @@
+.main {
+    background-color: rgb(19, 19, 19);
+    color: white;
+    width: 100%;
+    min-height: 100vh;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.title {
+    font-weight: bold;
+    color:red;
+}
+.title2 {
+    font-weight: bold;
+    color:white;
+}
+
+.err {
+    color:rgb(214, 0, 0);
+}
+.navbar, .content, .stripe {
+    float: left;
+    height: 100vh;
+}
+
+.stripe {
+    background-image: linear-gradient(rgb(19, 19, 19), gray,rgb(19, 19, 19) );
+    width: 2px;
+    margin-right: 2%;
+
+}
+.navbar {
+    width: 5%;
+}
+
+.content {
+    width: 85%;
+}

@@ -1,0 +1,29 @@
+.bar {
+    margin-top: 25vh;
+    text-align: center;
+    align-items: center;
+}
+
+.bar .navlink {
+    display: block;
+    margin-bottom: 15vh;
+}
+
+.navbtn {
+    color: white;
+    width: 70%;
+    padding-top: 1vh;
+    padding-bottom: 2px;
+    margin-left: 15%;
+}
+
+.navbtn:hover{
+    background-color: rgb(39, 39, 39);
+    transition: 1s;
+}
+
+.selected {
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-color: red;
+}
