@@ -2,9 +2,9 @@
 
 GitHub link: https://github.com/ReviBronsht/movies-recommendation
 
-Movies recommendation is a web app that gets the user's favorite netflix movie or tv show and suggests to them similar movies and tv shows. It also lets users browse movies and tv shows by genre.
+#### Movies recommendation is a web app that gets the user's favorite netflix movie or tv show and suggests to them similar movies and tv shows. It also lets users browse movies and tv shows by genre.
 
-Machine Learning and web scraping in Python, backend in Flask, frontend in React, MongoDB database 
+#### Machine Learning and web scraping in Python, backend in Flask, frontend in React, MongoDB database 
 
 <hr>
 
